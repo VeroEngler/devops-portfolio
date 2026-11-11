@@ -83,9 +83,9 @@ jobs:
           SECCIONES=(
             "Stack tecnológico"
             "Proyectos por TP"
-            "Mes 1"
-            "Mes 2"
-            "Mes 3"
+            "Semana 1"
+            "Semana 2"
+            "Semana 3"
             "Plataformas usadas"
           )
           FALTANTES=0
